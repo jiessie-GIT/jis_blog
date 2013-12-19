@@ -1,2 +1,2 @@
 source: /jis_blog
-markdown: rdiscount 
+pygments: true
